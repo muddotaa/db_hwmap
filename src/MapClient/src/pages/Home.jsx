@@ -1,12 +1,12 @@
 import React from "react";
-import MapView from "../components/MapView";
 
 const Home = () => {
-    return (
-        <div>
-            <MapView />
-        </div>
-    );
+  return (
+    <div>
+      <h1>Map UI</h1>
+      <p>Frontend is running.</p>
+    </div>
+  );
 };
 
 export default Home;
